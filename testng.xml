@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="APIReqResSuite">
+    <test name="APIReqResTests">
+        <classes>
+            <class name="com.testing.tests.UserApiTests"/>
+        </classes>
+    </test>
+</suite>
+
